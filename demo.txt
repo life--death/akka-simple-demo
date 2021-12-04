@@ -1,0 +1,5 @@
+start
+static
+ColumSelect,3
+read,covid-data.csv
+go

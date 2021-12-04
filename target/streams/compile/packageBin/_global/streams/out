@@ -1,0 +1,53 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/aoran/Documents/scala pre/target/scala-2.13/akka-quickstart-scala_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StaticWorker$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aoran/Documents/scala pre/target/scala-2.13/classes/StaticWorker$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ResultWorker.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aoran/Documents/scala pre/target/scala-2.13/classes/ResultWorker.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tools$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aoran/Documents/scala pre/target/scala-2.13/classes/Tools$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ColumSelectWorker$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aoran/Documents/scala pre/target/scala-2.13/classes/ColumSelectWorker$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ColumSelectWorker.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aoran/Documents/scala pre/target/scala-2.13/classes/ColumSelectWorker.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GlobalDataBase.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aoran/Documents/scala pre/target/scala-2.13/classes/GlobalDataBase.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	firstDemo$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aoran/Documents/scala pre/target/scala-2.13/classes/firstDemo$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fileReaders.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aoran/Documents/scala pre/target/scala-2.13/classes/fileReaders.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CompareWorker$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aoran/Documents/scala pre/target/scala-2.13/classes/CompareWorker$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BarChartWorker.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aoran/Documents/scala pre/target/scala-2.13/classes/BarChartWorker.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AddWorker.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aoran/Documents/scala pre/target/scala-2.13/classes/AddWorker.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	demoMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aoran/Documents/scala pre/target/scala-2.13/classes/demoMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StaticWorker.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aoran/Documents/scala pre/target/scala-2.13/classes/StaticWorker.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ResultWorker$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aoran/Documents/scala pre/target/scala-2.13/classes/ResultWorker$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReaderWorker$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aoran/Documents/scala pre/target/scala-2.13/classes/ReaderWorker$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fileReaders$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aoran/Documents/scala pre/target/scala-2.13/classes/fileReaders$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AddWorker$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aoran/Documents/scala pre/target/scala-2.13/classes/AddWorker$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	demoMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aoran/Documents/scala pre/target/scala-2.13/classes/demoMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GlobalDataBase$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aoran/Documents/scala pre/target/scala-2.13/classes/GlobalDataBase$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BarChartWorker$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aoran/Documents/scala pre/target/scala-2.13/classes/BarChartWorker$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReaderWorker.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aoran/Documents/scala pre/target/scala-2.13/classes/ReaderWorker.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	firstDemo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aoran/Documents/scala pre/target/scala-2.13/classes/firstDemo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CompareWorker.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aoran/Documents/scala pre/target/scala-2.13/classes/CompareWorker.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	firstDemo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aoran/Documents/scala pre/target/scala-2.13/classes/firstDemo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Tools.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/aoran/Documents/scala pre/target/scala-2.13/classes/Tools.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

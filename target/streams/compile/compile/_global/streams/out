@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/home/aoran/Documents/scala pre/firstDemo.scala:333:35: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : String("/home/aoran/Documents/")[0m
+[0m[[0m[31merror[0m] [0m[0m required: java.io.File[0m
+[0m[[0m[31merror[0m] [0m[0m        ChartUtils.saveChartAsPNG("/home/aoran/Documents/",[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
